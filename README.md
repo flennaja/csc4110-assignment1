@@ -1,1 +1,3 @@
-# csc4110-assignment1
+# Jack Flenna
+
+HG2956
