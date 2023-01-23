@@ -1,4 +1,4 @@
-# Github and Git conflict
+# Github and Git
 # Jack Flenna
 
 HG2956
